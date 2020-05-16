@@ -1,0 +1,3 @@
+class Shippable{
+  void ship(){}
+}
